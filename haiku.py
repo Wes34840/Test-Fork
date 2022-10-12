@@ -2,8 +2,10 @@
 
 #plak hier de haiku functions onder elkaar
 def Haiku1():
-    print("haiku by:","Kobayahsi Issa")
-    print("The wren Earns his living Noiselessly ") 
+    print("haiku by:","Wessel de Groot")
+    print("What is a haiku?")
+    print("Am I doing this correctly?") 
+    print("Why do you read this?")
 
 def Haiku2():
     print("haiku by:","Matsuo Bashō") 
