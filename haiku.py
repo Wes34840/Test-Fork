@@ -8,9 +8,9 @@ def Haiku1():
     print("Why do you read this?")
 
 def Haiku2():
-    print("haiku by:","Matsuo Bashō") 
-    print("From time to time") 
-    print("The clouds give rest To the moon-beholders.") 
+    print("spring van een gebouw") 
+    print("je kan het leven niet aan") 
+    print("je wilt echt springen") 
 
 def Haiku3():
     print("haiku by:","Yosa Buson") 
