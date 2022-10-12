@@ -17,6 +17,12 @@ def Haiku3():
     print("Over-ripe sushi")
     print("The Master Is full of regret.")
 
+def Haiku4(): 
+    print("Haiku by: Luke Alber-Kint")
+    print("When shit hits the fan")
+    print("I make sure to dodge quickly")
+    print("Otherwise I'll cry")
+
 
 #laat de code hieronder met rust
 Haiku1()
