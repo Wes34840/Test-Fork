@@ -8,15 +8,16 @@ def Haiku1():
     print("Why do you read this?")
 
 def Haiku2():
-    print("haiku by:","florian Bruijn")
-    print("spring van een gebouw") 
-    print("je kan het leven niet aan") 
-    print("je wilt echt springen") 
+    print("haiku by:","Matsuo Bashō") 
+    print("From time to time") 
+    print("The clouds give rest To the moon-beholders.") 
 
 def Haiku3():
-    print("haiku by:","Yosa Buson") 
-    print("Over-ripe sushi")
-    print("The Master Is full of regret.")
+    print("haiku by:","Justin Könst") 
+    print("Dikke huisjesslak,")
+    print("ook jij beklimt de Fuji")
+    print("maar langzaam, langzaam.")
+    
 
 
 #laat de code hieronder met rust
