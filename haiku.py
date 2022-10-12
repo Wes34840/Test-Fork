@@ -8,6 +8,7 @@ def Haiku1():
     print("Why do you read this?")
 
 def Haiku2():
+    print("haiku by:","florian Bruijn")
     print("spring van een gebouw") 
     print("je kan het leven niet aan") 
     print("je wilt echt springen") 
